@@ -1,5 +1,5 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Candidate Name]
-description: [A short description of your site's purpose]
+title:  PORTFOLIO
+description:  Hello, myself Pratik Chouhan and this website contains list of projects I have done.
