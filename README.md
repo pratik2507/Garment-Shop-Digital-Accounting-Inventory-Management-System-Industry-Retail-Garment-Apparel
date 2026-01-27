@@ -1,126 +1,107 @@
-# 📌 Overview
+## Project: Garment Shop Digital Accounting & Inventory Management System  
+To view the complete documentation: [Project README](./README_Garment_Shop.md)
 
-This project is an end-to-end digital transformation system for a garment retail shop, integrating accounting, inventory tracking, and management reporting.
-The solution combines Vyapar accounting software with a custom Google Sheets inventory and analytics system to provide real-time business visibility and operational control.
+- Goal: Digitize end-to-end accounting and inventory operations for a garment retail business using accounting software and analytics dashboards.
+- Key Features: Complete digital accounting setup, Google Sheets inventory tracking system, stock reconciliation framework, and real-time management dashboard.
+- Business Applications: Retail accounting automation, inventory management, profit monitoring, ERP-lite system for small retail businesses, and operational analytics.
+- Performance: Eliminated manual bookkeeping, improved stock accuracy, enabled real-time sales and profit tracking, and reduced operational errors and stock mismatches.
+- Tools: Vyapar Accounting Software, Google Sheets, Pivot Tables, SUMIFS, LOOKUP, QUERY, data visualization dashboards.
 
-# 🎯 Business Problem
+# Garment Shop Digital Accounting & Inventory Management System
 
-The garment shop was operating with manual processes, leading to:
+## Overview
+This project is an **end-to-end digital transformation system for a garment retail shop**, integrating accounting automation with custom inventory tracking and analytics dashboards.  
+The system provides **real-time financial visibility, stock control, and business management insights**.
 
-No structured digital accounting system
+---
 
-Poor inventory visibility and frequent stock mismatches
+## Business Problem
+The garment shop was operating manually with:
 
-Manual billing and expense tracking
+- No structured digital accounting system  
+- Poor inventory tracking and frequent stock mismatches  
+- Manual billing and expense tracking  
+- No management dashboards for decision-making  
 
-No real-time management reports for decision-making
+These issues resulted in **financial inaccuracies, stock losses, and slow business decisions**.
 
-These issues caused financial inaccuracies, stock losses, and slow business decisions.
+---
 
-# 🛠️ Solution Architecture
-1️⃣ Digital Accounting Setup (Vyapar Software)
+## Solution Architecture
 
-Complete setup of sales, purchase, and expense modules
+### 1. Digital Accounting System (Vyapar Software)
+- Complete setup of sales, purchases, expenses, and billing  
+- GST-ready invoicing system  
+- Automated financial reports (P&L, Ledger, Cash Flow)  
 
-GST-ready billing system
+### 2. Inventory Tracking System (Google Sheets)
+- Product-wise stock tracking (Opening Stock, Sales, Closing Stock)  
+- Daily inventory movement monitoring  
+- Stock reconciliation framework  
+- Low-stock monitoring logic  
 
-Automated financial reports (Profit & Loss, Ledger, Cash Flow)
+### 3. Management Dashboard
+- Real-time stock summary  
+- Sales, expense, and profit overview  
+- Executive-level dashboard for business owners  
 
-# 2️⃣ Inventory Tracking System (Google Sheets)
+---
 
-Product-wise stock tracking (Opening Stock, Sales, Closing Stock)
+## Key Features
+- End-to-end digital retail management system  
+- Real-time inventory tracking and stock reconciliation  
+- Automated accounting and financial reporting  
+- Interactive dashboards for analytics  
+- Scalable design for ERP-like expansion  
 
-Daily stock movement tracking
+---
 
-Low-stock monitoring logic
+## Business Impact
+- Digitized 100% manual accounting workflow  
+- Reduced stock mismatch and inventory losses  
+- Improved financial transparency and control  
+- Faster billing and reporting processes  
+- Enabled data-driven business decision-making  
 
-Inventory reconciliation framework
+---
 
-# 3️⃣ Management Dashboard
+## Skills Demonstrated
+- Retail Accounting System Implementation  
+- Inventory Management & Stock Reconciliation  
+- Google Sheets Automation & Dashboard Design  
+- Financial Data Analysis  
+- Business Process Optimization  
+- Client Requirement Analysis  
 
-Real-time stock summary
+---
 
-Sales and expense overview
+## Tools & Technologies
+- Vyapar Accounting Software  
+- Google Sheets  
+- Pivot Tables & Charts  
+- SUMIFS, LOOKUP, QUERY formulas  
+- Business Analytics Dashboards  
 
-Profit monitoring
+---
 
-Owner-friendly executive dashboard for business insights
+## Workflow
+1. Record sales, purchases, and expenses in Vyapar software  
+2. Update inventory data in structured Google Sheets  
+3. Automated formulas calculate stock and financial summaries  
+4. Pivot tables aggregate key business metrics  
+5. Dashboard visualizes KPIs for management review  
 
-# 📊 Key Features
+---
 
-End-to-end digital retail management system
+## Future Enhancements
+- SKU-level inventory tracking (size, color, category)  
+- Automated low-stock alerts via AppSheet  
+- Cloud database integration (MySQL / BigQuery)  
+- Role-based access for staff and management  
+- Full ERP-style analytics module  
 
-Real-time inventory tracking and stock reconciliation
+---
 
-Automated accounting and financial reporting
-
-Interactive dashboards for business analytics
-
-Scalable structure for future ERP integration
-
-🚀 Business Impact
-
-Digitized manual accounting and inventory processes
-
-Improved financial accuracy and transparency
-
-Reduced stock mismatches and operational losses
-
-Faster billing and reporting workflows
-
-Enabled data-driven business decision-making
-
-🧠 Skills Demonstrated
-
-Retail Accounting System Implementation
-
-Inventory Management & Stock Reconciliation
-
-Google Sheets Automation & Dashboard Design
-
-Business Analytics & Financial Reporting
-
-Process Optimization & Digital Transformation
-
-Client Requirement Analysis and Documentation
-
-🧰 Tools & Technologies
-
-Vyapar Accounting Software
-
-Google Sheets
-
-Pivot Tables & Charts
-
-Spreadsheet Automation (SUMIFS, LOOKUP, QUERY)
-
-Business Analytics Framework
-
-📂 Workflow
-
-Record sales, purchases, and expenses in Vyapar software
-
-Update inventory data in structured Google Sheets templates
-
-Automated formulas calculate stock and financial summaries
-
-Pivot tables aggregate metrics
-
-Dashboard visualizes real-time KPIs for management review
-
-📈 Future Enhancements
-
-SKU-level inventory tracking (size, color, category)
-
-Automated low-stock alerts via AppSheet
-
-Integration with cloud databases (MySQL / BigQuery)
-
-Role-based access for staff and management
-
-Full ERP-like inventory and sales analytics module
-
-👤 Author
-
-Pratik Chouhan
+## Author
+Pratik Chouhan  
 Business Analyst | Data Analyst | Google Sheets Automation Specialist
